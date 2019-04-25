@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 oi érica tudo bom?
 IHAAAAAAAAAAAAA
+=======
+﻿oi érica tudo bom?
+
+tudo o/
+>>>>>>> 8bc51fc844e2f11e9f56d76f83b5d6cecfdf3901
